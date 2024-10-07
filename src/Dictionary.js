@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+// eslint-disable-next-line
+import axios from "axios";
 import "./Dictionary.css";
 
 export default function Dictionary() {
