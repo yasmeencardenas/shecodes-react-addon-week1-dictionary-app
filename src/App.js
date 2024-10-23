@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <main>
-          <img src="./shecodeslogo.png"></img>
+          <img src="./shecodeslogo.png" alt=""></img>
           <Dictionary />
         </main>
         <footer className="App-footer">
