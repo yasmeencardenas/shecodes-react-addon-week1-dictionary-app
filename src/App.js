@@ -19,8 +19,7 @@ export default function App() {
               rel="noreferrer"
               className="link"
              >
-            open-sourced on GitHub {" "} and {" "}
-            </a> {" "}
+            open-sourced on GitHub </a> {" "} and {" "}
             <a
               href="https://eloquent-meerkat-8b83f1.netlify.app/"
               target="_blank"
